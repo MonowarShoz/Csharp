@@ -1,0 +1,10 @@
+G:\CSharpProject\Ex1problem1\Ex1problem1\bin\Debug\netcoreapp3.0\Ex1problem1.exe
+G:\CSharpProject\Ex1problem1\Ex1problem1\bin\Debug\netcoreapp3.0\Ex1problem1.deps.json
+G:\CSharpProject\Ex1problem1\Ex1problem1\bin\Debug\netcoreapp3.0\Ex1problem1.runtimeconfig.json
+G:\CSharpProject\Ex1problem1\Ex1problem1\bin\Debug\netcoreapp3.0\Ex1problem1.runtimeconfig.dev.json
+G:\CSharpProject\Ex1problem1\Ex1problem1\bin\Debug\netcoreapp3.0\Ex1problem1.dll
+G:\CSharpProject\Ex1problem1\Ex1problem1\bin\Debug\netcoreapp3.0\Ex1problem1.pdb
+G:\CSharpProject\Ex1problem1\Ex1problem1\obj\Debug\netcoreapp3.0\Ex1problem1.AssemblyInfoInputs.cache
+G:\CSharpProject\Ex1problem1\Ex1problem1\obj\Debug\netcoreapp3.0\Ex1problem1.AssemblyInfo.cs
+G:\CSharpProject\Ex1problem1\Ex1problem1\obj\Debug\netcoreapp3.0\Ex1problem1.dll
+G:\CSharpProject\Ex1problem1\Ex1problem1\obj\Debug\netcoreapp3.0\Ex1problem1.pdb
