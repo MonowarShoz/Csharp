@@ -1,0 +1,11 @@
+G:\CSharpProject\prob3\prob3\obj\Debug\netcoreapp3.0\prob3.csprojAssemblyReference.cache
+G:\CSharpProject\prob3\prob3\obj\Debug\netcoreapp3.0\prob3.AssemblyInfoInputs.cache
+G:\CSharpProject\prob3\prob3\obj\Debug\netcoreapp3.0\prob3.AssemblyInfo.cs
+G:\CSharpProject\prob3\prob3\bin\Debug\netcoreapp3.0\prob3.exe
+G:\CSharpProject\prob3\prob3\bin\Debug\netcoreapp3.0\prob3.deps.json
+G:\CSharpProject\prob3\prob3\bin\Debug\netcoreapp3.0\prob3.runtimeconfig.json
+G:\CSharpProject\prob3\prob3\bin\Debug\netcoreapp3.0\prob3.runtimeconfig.dev.json
+G:\CSharpProject\prob3\prob3\bin\Debug\netcoreapp3.0\prob3.dll
+G:\CSharpProject\prob3\prob3\bin\Debug\netcoreapp3.0\prob3.pdb
+G:\CSharpProject\prob3\prob3\obj\Debug\netcoreapp3.0\prob3.dll
+G:\CSharpProject\prob3\prob3\obj\Debug\netcoreapp3.0\prob3.pdb
