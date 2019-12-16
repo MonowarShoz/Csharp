@@ -27,3 +27,4 @@ G:\CSharpProject\LibManagement\LibManagement\bin\Debug\netcoreapp3.0\runtimes\wi
 G:\CSharpProject\LibManagement\LibManagement\obj\Debug\netcoreapp3.0\LibManagement.csproj.CopyComplete
 G:\CSharpProject\LibManagement\LibManagement\obj\Debug\netcoreapp3.0\LibManagement.dll
 G:\CSharpProject\LibManagement\LibManagement\obj\Debug\netcoreapp3.0\LibManagement.pdb
+G:\CSharpProject\LibManagement\LibManagement\obj\Debug\netcoreapp3.0\LibManagement.csprojAssemblyReference.cache

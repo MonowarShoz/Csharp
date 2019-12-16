@@ -27,6 +27,7 @@ namespace LibManagement
                 using (var command = new SqlCommand(sql, con))
                 {
                     command.ExecuteNonQuery();
+                    Console.WriteLine("Book Inserted succesfully");
                 }
             }
         }
@@ -48,6 +49,7 @@ namespace LibManagement
                 using(var command = new SqlCommand(sql, con))
                 {
                     command.ExecuteNonQuery();
+                    Console.WriteLine("Book Borrowed succesfully");
                     
                 }
             }
@@ -69,6 +71,7 @@ namespace LibManagement
                 using (var command = new SqlCommand(sql, con))
                 {
                     command.ExecuteNonQuery();
+                    Console.WriteLine("Book Returned succesfully");
 
                 }
             }
